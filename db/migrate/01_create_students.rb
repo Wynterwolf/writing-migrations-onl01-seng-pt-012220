@@ -4,3 +4,4 @@ def change
 			x.string :name
 		end
 		end
+		end
